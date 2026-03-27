@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My E-Newspaper</title>
+    </head>
+    <body>
+        <h1 align="centre">My News</h1>
+        <div>
+            <h2 color="red">Breaking News</h2>
+            <p><b>Technology</b> is growing <i>rapidly</i> in today's world. Students are learning <u>HTML</u>, <b>CSS</b>, and <i>JavaScript</i>.</p>
+        </div>
+        <div>
+            <h2>Today's Highlight</h2>
+            <pre>Water formula is H<sub>2</sub>O and Einstein said E = mc<sup>2</sup>.
+                <small>Small text</small>
+                <big>Big text</big>
+                <strike>Old news</strike>-> Updated news!
+            </pre>
+        </div>
+        <div>
+            <h2>Weathe Report</h2>
+            <pre>
+                City            Temp
+                Bangalore       28<sup>0</sup>C
+                Delhi           35<sup>0</sup>C
+                Mumbai          38<sup>0</sup>C
+            </pre>
+        </div>
+    </body>
+</html>
